@@ -1,4 +1,6 @@
-# Emilia Hiring 👩‍💻
+# CODING CHALLENGE SOLVED SUCCESSFULLY! GOT THE JOB OFFER, but decided for another opportunity
+
+## Emilia Hiring 👩‍💻
 
 Hi 👋, I am Emilia!
 
